@@ -1,0 +1,13 @@
+Product
+  id
+  name
+  price
+  qty
+  total
+  description
+  date-added
+
+Category
+  id
+  categoryname
+  products: [Product, Product, Product]
